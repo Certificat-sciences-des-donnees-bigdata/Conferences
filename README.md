@@ -13,8 +13,8 @@ Support à venir
 
 ## 2 L'utilisation du Big Data dans l'industrie : applications de l'intelligence artificielle - Jong-Mo ALLEGRAUD
 
-[Support de la conférence] (https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/blob/master/Documents/Defi%20du%20big%20data%20industrie%20-JongAllegraud-MewsPartners.pdf)
+[Support de la conférence](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/blob/master/Documents/Defi%20du%20big%20data%20industrie%20-JongAllegraud-MewsPartners.pdf)
 
 ## 3 Le Big Data dans l'industrie pharmaceutique - Christophe GUILLOT
 
-[Support de la conférence] (https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/blob/master/Documents/Bigdata%20pharma%20-%20ChristopheGuillot.pdf)
+[Support de la conférence](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/blob/master/Documents/Bigdata%20pharma%20-%20ChristopheGuillot.pdf)
