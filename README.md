@@ -18,3 +18,8 @@ Support à venir
 ## 3 Le Big Data dans l'industrie pharmaceutique - Christophe GUILLOT
 
 [Support de la conférence](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/blob/master/Documents/Bigdata%20pharma%20-%20ChristopheGuillot.pdf)
+
+## 4 L'IA du quotidien peut-elle être éthique ? Loyauté des algorithmes d'apprentissage automatique - Philippe BESSE
+
+[Support de la conférence](Module-sensibilisation/Documents/IA-Ethique-2018.pdf)
+      
