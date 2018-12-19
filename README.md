@@ -21,5 +21,5 @@ Support à venir
 
 ## 4 L'IA du quotidien peut-elle être éthique ? Loyauté des algorithmes d'apprentissage automatique - Philippe BESSE
 
-[Support de la conférence](Module-sensibilisation/Documents/IA-Ethique-2018.pdf)
+[Support de la conférence](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/blob/master/Documents/IA-Ethique-2018.pdf)
       
