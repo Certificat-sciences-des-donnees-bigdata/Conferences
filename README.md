@@ -1,11 +1,11 @@
 # Conferences
 _____
 **Planning des conférences**
--	Lundi 12 novembre 2018 à 18h30 (ISAE-SUPAERO, amphi 4) : "Le Big Data dans l'aviation commerciale" - Yves Grealou, AMADEUS
--	Mardi 27 novembre 2018 à 18h30 (ISAE-SUPAERO, amphi 2): "L'utilisation du Big Data dans l'industrie : applications de l'intelligence artificielle" - Jong-Mo Allegraud, MEWS PARTNERS
--	Mardi 4 décembre 2018 à 18h30 (INP-ENSEEIHT, amphi b00) : "Le Big Data dans l'industrie pharmaceutique"- Christophe Guillot, société PIERRE FABRE
--	Mardi 18 décembre 2018 à 18h30 (INP-ENSEEIHT, amphi b00) : "L'IA du quotidien peut-elle être éthique ? Loyauté des algorithmes d'apprentissage automatique" - Philippe Besse, INSA Toulouse/IMT
--	Mercredi 30 janvier 2019 à 18h30 (ISAE-SUPAERO, amphi 2) : "Big Data et Privacy" - Marc-Olivier Killijian, LAAS-CNRS/UQAM
+-	Mardi 12 octobre 2019 à 18h30 (lieu?) : "titre?" - speaker?
+-	Mardi 12 novembre 2019 à 18h30 (lieu?) : "titre?" - speaker?
+-	Mardi 17 décembre 2019 à 18h30 (lieu?) : "titre?" - speaker?
+-	Mardi 21 janvier 2020 à 18h30 (lieu?) : "titre?" - speaker?
+-	Mardi 25 fevrier 2020 à 18h30 (lieu?) : "titre?" - speaker?
 _____
 ## 1 Le Big Data dans l'aviation commerciale - Yves GREALOU
 
